@@ -11,3 +11,4 @@ This is a web app built with React and Firebase that helps to track the Covid-19
 
 ### Deploy on https://covid-tracker-43755.web.app/, feedback is welcomed!!!
 
+![alt text](https://github.com/kitan23/Covid-tracker/blob/main/Screenshot%202021-07-20.png?raw=true)
